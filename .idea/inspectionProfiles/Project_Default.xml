@@ -1,0 +1,25 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="Django" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="menu.urls.*" />
+          <option value="category.asgi.get_asgi_application" />
+          <option value="psychology_list.psychology_list.admin.Psychology_list" />
+          <option value="Psychology_U.asgi.get_asgi_application" />
+          <option value="django.core.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
